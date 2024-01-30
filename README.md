@@ -9,13 +9,13 @@ Mede a proporção de previsões corretas em relação ao total de previsões fe
 # Precisão: 
 Calcula a proporção de verdadeiros positivos em relação à soma de verdadeiros positivos e falsos positivos. É útil quando o foco está na minimização de falsos positivos.
 
-#Sensibilidade (Recall): 
+# Sensibilidade (Recall): 
 Calcula a proporção de verdadeiros positivos em relação à soma de verdadeiros positivos e falsos negativos. É importante quando o objetivo é identificar o máximo possível de positivos reais, minimizando os falsos negativos.
 
-#Especificidade: 
+# Especificidade: 
 Calcula a proporção de verdadeiros negativos em relação à soma de verdadeiros negativos e falsos positivos. É útil quando o foco está em minimizar os falsos positivos.
 
-#F1-score: 
+# F1-score: 
 É uma média harmônica da precisão e da sensibilidade. É útil quando há um desequilíbrio significativo entre as classes do conjunto de dados.
 
 # Curva ROC e Área sob a curva (ROC-AUC): 
